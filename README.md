@@ -1,5 +1,9 @@
 # flash-zh.nvim
 
+> [!NOTE]
+> 這是 [rainzm/flash-zh.nvim](https://github.com/rainzm/flash-zh.nvim) 的 fork，
+> 將 `flypy.lua` 的簡體中文字典使用 opencc 轉換成繁體中文，主要程式實作來自於 flash-zh.nvim 與 flash.nvim
+
 基于[flash.nvim](https://github.com/folke/flash.nvim)以及小鹤双拼，neovim 中文跳转插件。
 
 ![iShot_2023-10-05_19 32 53](https://github.com/rainzm/flash-zh.nvim/assets/22927169/4c3ca124-0fee-48a2-b7c6-17391afe8d0e)
